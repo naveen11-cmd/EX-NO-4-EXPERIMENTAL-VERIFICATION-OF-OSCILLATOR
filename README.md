@@ -29,26 +29,18 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-![WhatsApp Image 2025-11-27 at 19 25 58_963ff3d1](https://github.com/user-attachments/assets/b084897d-eec9-46a1-b061-30c170eb8fd1)
-
+![WhatsApp Image 2025-11-28 at 15 49 38_bae7e691](https://github.com/user-attachments/assets/a80f9e1e-371c-4084-ac9f-a6c9449d0c01)
 
 
 
 ---
 
 ## MODEL GRAPH
-<img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
+![WhatsApp Image 2025-11-28 at 15 47 46_ee5b7be4](https://github.com/user-attachments/assets/a43536d1-8cdc-4bba-a4d3-fd19e2e385f4)
 
 ## DESIGN
 
-## RC PHASE SHIFT OSCILLATOR
-fo = 1 /  6 (2RC) Rf  29 R1
-C = 0.01F, fo = 200 Hz.
-R = 1 /  6 (2  f C ) = 3.3 k
-Therefore, Choose R = 3.3k
-To prevent loading,
-R1   10 R
-R1 =10 R = 33 k. Rf = 29R1=1MΩ
+![WhatsApp Image 2025-11-28 at 15 50 59_4ca551c8](https://github.com/user-attachments/assets/93a95b09-89db-49f3-8c52-bb2fc3d02aa0)
 
 ---
 ## PROCEDURE
@@ -58,7 +50,7 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
-![WhatsApp Image 2025-11-27 at 19 25 58_3575fb04](https://github.com/user-attachments/assets/c6e618b9-4d85-484a-93f5-d3611851ca3b)
+![WhatsApp Image 2025-11-28 at 15 50 39_2cef2d3a](https://github.com/user-attachments/assets/072d231b-9362-4df7-8c76-cc83c1f1c82e)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
@@ -86,29 +78,19 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-![WhatsApp Image 2025-11-27 at 19 25 56_6e0e5fff](https://github.com/user-attachments/assets/e0159655-a00c-4d51-984e-8550b104e099)
+![WhatsApp Image 2025-11-28 at 15 47 22_22cc6c90](https://github.com/user-attachments/assets/2675c895-1f34-4c80-8cda-b756b10af96c)
 
 ---
 ## MODEL GRAPH
-<img width="414" height="325" alt="image" src="https://github.com/user-attachments/assets/1cc285f7-05c7-4b65-af59-b28cf039fcd3" />
+![WhatsApp Image 2025-11-28 at 15 47 46_7d1dff9a](https://github.com/user-attachments/assets/c03f59fe-832d-495c-a923-e6dca6c998ef)
+
 
 ---
 
 ## DESIGN
 
-## WIEN BRIDGE OSCILLATOR
-Select frequency f0 = 1KHz
-fo = 1/2πRC
-A = 1+(Rf / R1) = 3.
-To find R & Rf.
-Therefore Rf = 2R1 & assume C = 0.1μf & find R from
-R=1/2πfC
-=1/2*3.14*1*103*0.1*10-6
-= 1.59KΩ.
-Assume R1 = 10R & find Rf from Rf = 2R1
-Therefore R1 = 1.5K *10=15KΩ
-Rf = 15K *2=30KΩ
----
+![WhatsApp Image 2025-11-28 at 15 52 07_737d63d6](https://github.com/user-attachments/assets/b42dd05b-0f16-4340-b67d-512e4b5c7cd6)
+
 
 ## PROCEDURE
 
@@ -118,7 +100,8 @@ Rf = 15K *2=30KΩ
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ---
 ## TABULATION/OBSERVATION
-![WhatsApp Image 2025-11-27 at 19 25 56_48172459](https://github.com/user-attachments/assets/7fb72ac1-431a-4bfb-9630-1456ef5dca44)
+![WhatsApp Image 2025-11-28 at 15 50 39_814835e6](https://github.com/user-attachments/assets/6ec4f697-e420-47b7-93e8-e7b7d78ec569)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
@@ -127,5 +110,7 @@ Rf = 15K *2=30KΩ
 
 ---
 ## RESULT:
-
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
+![WhatsApp Image 2025-11-28 at 15 52 30_7773b06a](https://github.com/user-attachments/assets/3f5433ea-670a-49b4-ba34-1e449aace4cc)
+
+
