@@ -100,7 +100,7 @@ WIEN BRIDGE OSCILLATOR
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ---
 ## TABULATION/OBSERVATION
-![WhatsApp Image 2025-11-28 at 15 50 39_814835e6](https://github.com/user-attachments/assets/6ec4f697-e420-47b7-93e8-e7b7d78ec569)
+![WhatsApp Image 2025-11-28 at 18 11 06_fe09db9a](https://github.com/user-attachments/assets/3ed8b00b-680c-4c6e-9aac-4024f15a5752)
 
 
 ---
