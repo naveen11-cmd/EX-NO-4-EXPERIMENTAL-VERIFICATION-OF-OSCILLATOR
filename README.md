@@ -50,7 +50,8 @@ RC PHASE SHIFT OSCILLATOR
 ---
 ## TABULATION/OBSERVATION
 
-![WhatsApp Image 2025-11-28 at 15 50 39_2cef2d3a](https://github.com/user-attachments/assets/072d231b-9362-4df7-8c76-cc83c1f1c82e)
+![WhatsApp Image 2025-11-28 at 18 21 23_555c4de6](https://github.com/user-attachments/assets/da9edca2-67eb-4b50-999d-ba780410a15b)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
