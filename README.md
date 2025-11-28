@@ -55,7 +55,7 @@ RC PHASE SHIFT OSCILLATOR
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-27 at 19 25 57_6ed1114c](https://github.com/user-attachments/assets/e7464245-055f-4087-b968-0a24cde461e4)
+![WhatsApp Image 2025-11-28 at 16 02 43_2d5b8b90](https://github.com/user-attachments/assets/bf3e8cdd-85c3-4a7f-8129-6de3ed6cafff)
 
 ---
 ## THEORY
@@ -105,7 +105,8 @@ WIEN BRIDGE OSCILLATOR
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-27 at 19 25 57_d8cc7059](https://github.com/user-attachments/assets/6e92d9d1-9b96-41dd-919b-311baad649f7)
+![WhatsApp Image 2025-11-28 at 16 03 33_1ac088bb](https://github.com/user-attachments/assets/2ae232a3-6e8d-4b03-b943-0908fd17aec7)
+
 
 
 ---
